@@ -10,7 +10,7 @@ WorkPay-API serves as an API Gateway, handling request routing, authentication, 
 - MySQL
 
 ## Database Structure (ERD)
-<p align="center"><img src="ss-db-structure.png" /></p>
+<p align="center"><img src="ss-db-structure.PNG" /></p>
 
 ## Project Installation
 
